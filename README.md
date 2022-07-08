@@ -19,7 +19,7 @@
 
 ### Prerequisites
 
-Before you started, you need install on your machine this programs: [Nodejs](https://nodejs.org/en/), [Docker](https://www.docker.com/products/docker-desktop/).<br>
+Before you started, you need install on your machine this programs: [NodeJs](https://nodejs.org/en/), [Docker](https://www.docker.com/products/docker-desktop/).<br>
 Besides, it's good to have an editor to code like [Visual Studio Code](https://code.visualstudio.com/).
 
 ### 🎲 Configurations
@@ -52,4 +52,4 @@ This tools were used to building the project:
 <br/>
 <sub><b>Matheus de Oliveira Teles da Silva</b></sub></a>🚀
 
-Feito por Matheus de Oliveira Teles da Silva 👋🏽 Entre em contato!
+By Matheus de Oliveira Teles da Silva 👋🏽 Send a message!
