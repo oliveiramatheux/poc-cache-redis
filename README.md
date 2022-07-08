@@ -28,7 +28,7 @@ On your folder that you clone the project (you can use yarn or npm):
 
 ```bash
 yarn
-yarn run dev
+yarn dev
 ```
 
 In another terminal you should up the docker container with redis:
