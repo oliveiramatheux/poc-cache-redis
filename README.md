@@ -1,10 +1,10 @@
-#### Example project Cache with Redis
+# Example project Cache with Redis
 
 - 💬 Description and objective: make a simple example project with redis, cache on api that seach a pokemon moves.
 
 #### 🚧 Project status 🚀 In progress, started in 08/07/2022 🚧
 
-# Table of content
+### Table of content
 
 <!--ts-->
 
