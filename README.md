@@ -19,9 +19,7 @@
 
 ### Prerequisites
 
-Before you started, you need install on your machine this programs:
-[Nodejs](https://nodejs.org/en/)<br>
-[Docker](https://www.docker.com/products/docker-desktop/)<br>
+Before you started, you need install on your machine this programs: [Nodejs](https://nodejs.org/en/), [Docker](https://www.docker.com/products/docker-desktop/)<br>
 Besides, it's good to have an editor to code like [Visual Studio Code](https://code.visualstudio.com/).
 
 ### 🎲 Configurations
